@@ -2,7 +2,7 @@
 
 Repository dedicated to learn Rust following [rust book](https://doc.rust-lang.org/stable/book/).
 
-The main idea is not read the entire book in one go, a very detailed introduction to the basic concepts can be found until chapter 10.
+The main idea is not read the entire book in one go, a very detailed introduction to the basic concepts can be found until chapter 10. So, my goal is to store all relevant code in this repository until chapter 10, afterwards jumping to a side-project to complete the learning curve by experiencing the language in first hand using the book as a companion.
 
 ## Cargo & VCS
 
